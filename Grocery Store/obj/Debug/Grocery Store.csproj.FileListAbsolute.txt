@@ -1,0 +1,44 @@
+B:\Backup\Grocery Store 2\Weapon Store\bin\Debug\Weapon Store.exe.config
+B:\Backup\Grocery Store 2\Weapon Store\bin\Debug\Weapon Store.exe
+B:\Backup\Grocery Store 2\Weapon Store\bin\Debug\Weapon Store.pdb
+B:\Backup\Grocery Store 2\Weapon Store\bin\Debug\Oracle.DataAccess.dll
+B:\Backup\Grocery Store 2\Weapon Store\obj\Debug\Grocery Store.csproj.AssemblyReference.cache
+B:\Backup\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.About.resources
+B:\Backup\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.Add_Items.resources
+B:\Backup\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.All_Items.resources
+B:\Backup\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.Customer.resources
+B:\Backup\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.Customers.resources
+B:\Backup\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.DashBoard.resources
+B:\Backup\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.invoice_history.resources
+B:\Backup\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.Login.resources
+B:\Backup\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.Invoice.resources
+B:\Backup\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.Properties.Resources.resources
+B:\Backup\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.Purchase.resources
+B:\Backup\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.Search.resources
+B:\Backup\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.Sign_up.resources
+B:\Backup\Grocery Store 2\Weapon Store\obj\Debug\Grocery Store.csproj.GenerateResource.cache
+B:\Backup\Grocery Store 2\Weapon Store\obj\Debug\Grocery Store.csproj.CoreCompileInputs.cache
+B:\Backup\Grocery Store 2\Weapon Store\obj\Debug\Grocery .0EAC0135.Up2Date
+B:\Backup\Grocery Store 2\Weapon Store\obj\Debug\Weapon Store.exe
+B:\Backup\Grocery Store 2\Weapon Store\obj\Debug\Weapon Store.pdb
+C:\Users\zakki\OneDrive\Desktop\Grocery Store 2\Weapon Store\bin\Debug\Weapon Store.exe.config
+C:\Users\zakki\OneDrive\Desktop\Grocery Store 2\Weapon Store\bin\Debug\Weapon Store.exe
+C:\Users\zakki\OneDrive\Desktop\Grocery Store 2\Weapon Store\bin\Debug\Weapon Store.pdb
+C:\Users\zakki\OneDrive\Desktop\Grocery Store 2\Weapon Store\obj\Debug\Grocery Store.csproj.AssemblyReference.cache
+C:\Users\zakki\OneDrive\Desktop\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.About.resources
+C:\Users\zakki\OneDrive\Desktop\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.Add_Items.resources
+C:\Users\zakki\OneDrive\Desktop\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.All_Items.resources
+C:\Users\zakki\OneDrive\Desktop\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.Customer.resources
+C:\Users\zakki\OneDrive\Desktop\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.Customers.resources
+C:\Users\zakki\OneDrive\Desktop\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.DashBoard.resources
+C:\Users\zakki\OneDrive\Desktop\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.invoice_history.resources
+C:\Users\zakki\OneDrive\Desktop\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.Login.resources
+C:\Users\zakki\OneDrive\Desktop\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.Invoice.resources
+C:\Users\zakki\OneDrive\Desktop\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.Properties.Resources.resources
+C:\Users\zakki\OneDrive\Desktop\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.Purchase.resources
+C:\Users\zakki\OneDrive\Desktop\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.Search.resources
+C:\Users\zakki\OneDrive\Desktop\Grocery Store 2\Weapon Store\obj\Debug\Weapon_Store.Sign_up.resources
+C:\Users\zakki\OneDrive\Desktop\Grocery Store 2\Weapon Store\obj\Debug\Grocery Store.csproj.GenerateResource.cache
+C:\Users\zakki\OneDrive\Desktop\Grocery Store 2\Weapon Store\obj\Debug\Grocery Store.csproj.CoreCompileInputs.cache
+C:\Users\zakki\OneDrive\Desktop\Grocery Store 2\Weapon Store\obj\Debug\Weapon Store.exe
+C:\Users\zakki\OneDrive\Desktop\Grocery Store 2\Weapon Store\obj\Debug\Weapon Store.pdb

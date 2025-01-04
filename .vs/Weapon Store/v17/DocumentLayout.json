@@ -1,0 +1,450 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|c:\\users\\zakki\\onedrive\\desktop\\grocery store 2\\weapon store\\sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\weapon store\\sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\weapon store\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\weapon store\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\weapon store\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\weapon store\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\weapon store\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\weapon store\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\weapon store\\invoice_history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\invoice_history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\weapon store\\invoice_history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\invoice_history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\weapon store\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\weapon store\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\weapon store\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\weapon store\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|c:\\users\\zakki\\onedrive\\desktop\\grocery store 2\\weapon store\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\weapon store\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\weapon store\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\weapon store\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\weapon store\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\weapon store\\all items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\all items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\weapon store\\all items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\all items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\weapon store\\add items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\add items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\weapon store\\add items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\add items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A24300-7182-4B9B-AEBA-EED79FC4AC80}|Solution Items{30A24300-7182-4B9B-AEBA-EED79FC4AC80}|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A24300-7182-4B9B-AEBA-EED79FC4AC80}|Solution Items{30A24300-7182-4B9B-AEBA-EED79FC4AC80}|solutionrelative:Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\weapon store\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\weapon store\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8AF387C-64AB-462C-989D-BB2D061C1430}|Weapon Store\\Grocery Store.csproj|solutionrelative:weapon store\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Purchase.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Purchase.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\Purchase.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Purchase.cs [Design]",
+              "RelativeToolTip": "Weapon Store\\Purchase.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:55:03.588Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Purchase.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\Purchase.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Purchase.cs",
+              "RelativeToolTip": "Weapon Store\\Purchase.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAwKUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:55:05.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Search.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Search.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\Search.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Search.cs [Design]",
+              "RelativeToolTip": "Weapon Store\\Search.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:56:37.854Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Search.cs",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Search.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\Search.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Search.cs",
+              "RelativeToolTip": "Weapon Store\\Search.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAwHUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:56:40.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sign up.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Sign up.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\Sign up.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Sign up.cs [Design]",
+              "RelativeToolTip": "Weapon Store\\Sign up.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:58:02.115Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sign up.cs",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Sign up.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\Sign up.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Sign up.cs",
+              "RelativeToolTip": "Weapon Store\\Sign up.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:58:05.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Login.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\Login.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Login.cs",
+              "RelativeToolTip": "Weapon Store\\Login.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAA8wGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:54:09.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Login.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\Login.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Login.cs [Design]",
+              "RelativeToolTip": "Weapon Store\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:54:05.966Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "invoice_history.cs",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\invoice_history.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\invoice_history.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\invoice_history.cs",
+              "RelativeToolTip": "Weapon Store\\invoice_history.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:54:00.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "invoice_history.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\invoice_history.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\invoice_history.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\invoice_history.cs [Design]",
+              "RelativeToolTip": "Weapon Store\\invoice_history.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:53:57.723Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Invoice.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\Invoice.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Invoice.cs",
+              "RelativeToolTip": "Weapon Store\\Invoice.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAwG8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:49:31.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Invoice.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Invoice.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\Invoice.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Invoice.cs [Design]",
+              "RelativeToolTip": "Weapon Store\\Invoice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:49:28.404Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\DashBoard.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\DashBoard.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\DashBoard.cs",
+              "RelativeToolTip": "Weapon Store\\DashBoard.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAA8wGAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:49:23.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashBoard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\DashBoard.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\DashBoard.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\DashBoard.cs [Design]",
+              "RelativeToolTip": "Weapon Store\\DashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:49:20.449Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Customers.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\Customers.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Customers.cs",
+              "RelativeToolTip": "Weapon Store\\Customers.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:42:26.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Customer.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\Customer.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Customer.cs",
+              "RelativeToolTip": "Weapon Store\\Customer.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:48:35.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Customer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Customer.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\Customer.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Customer.cs [Design]",
+              "RelativeToolTip": "Weapon Store\\Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:48:33.408Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Class1.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\Class1.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Class1.cs",
+              "RelativeToolTip": "Weapon Store\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:41:59.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "All Items.cs",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\All Items.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\All Items.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\All Items.cs",
+              "RelativeToolTip": "Weapon Store\\All Items.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:48:01.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "All Items.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\All Items.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\All Items.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\All Items.cs [Design]",
+              "RelativeToolTip": "Weapon Store\\All Items.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:47:58.943Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Customers.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\Customers.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Customers.cs [Design]",
+              "RelativeToolTip": "Weapon Store\\Customers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:49:17.637Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Add Items.cs",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Add Items.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\Add Items.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Add Items.cs",
+              "RelativeToolTip": "Weapon Store\\Add Items.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwDkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:46:55.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Add Items.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Add Items.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\Add Items.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\Add Items.cs [Design]",
+              "RelativeToolTip": "Weapon Store\\Add Items.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:46:53.099Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Class.cs",
+              "RelativeDocumentMoniker": "Class.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Class.cs",
+              "RelativeToolTip": "Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:41:13.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\About.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\About.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\About.cs",
+              "RelativeToolTip": "Weapon Store\\About.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:46:50.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "About.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\About.cs",
+              "RelativeDocumentMoniker": "Weapon Store\\About.cs",
+              "ToolTip": "C:\\Users\\zakki\\OneDrive\\Desktop\\Grocery Store 2\\Weapon Store\\About.cs [Design]",
+              "RelativeToolTip": "Weapon Store\\About.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T10:46:46.604Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

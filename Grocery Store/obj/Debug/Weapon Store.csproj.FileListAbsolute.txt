@@ -1,0 +1,23 @@
+C:\Users\Ruhma\source\repos\Weapon Store\Weapon Store\bin\Debug\Weapon Store.exe.config
+C:\Users\Ruhma\source\repos\Weapon Store\Weapon Store\bin\Debug\Weapon Store.exe
+C:\Users\Ruhma\source\repos\Weapon Store\Weapon Store\bin\Debug\Weapon Store.pdb
+C:\Users\Ruhma\source\repos\Weapon Store\Weapon Store\obj\Debug\Weapon Store.csproj.AssemblyReference.cache
+C:\Users\Ruhma\source\repos\Weapon Store\Weapon Store\obj\Debug\Weapon_Store.Properties.Resources.resources
+C:\Users\Ruhma\source\repos\Weapon Store\Weapon Store\obj\Debug\Weapon Store.csproj.GenerateResource.cache
+C:\Users\Ruhma\source\repos\Weapon Store\Weapon Store\obj\Debug\Weapon Store.csproj.CoreCompileInputs.cache
+C:\Users\Ruhma\source\repos\Weapon Store\Weapon Store\obj\Debug\Weapon Store.exe
+C:\Users\Ruhma\source\repos\Weapon Store\Weapon Store\obj\Debug\Weapon Store.pdb
+C:\Users\Ruhma\source\repos\Weapon Store\Weapon Store\obj\Debug\Weapon_Store.Add_Items.resources
+C:\Users\Ruhma\source\repos\Weapon Store\Weapon Store\obj\Debug\Weapon_Store.DashBoard.resources
+C:\Users\Ruhma\source\repos\Weapon Store\Weapon Store\obj\Debug\Weapon_Store.All_Items.resources
+C:\Users\Ruhma\source\repos\Weapon Store\Weapon Store\obj\Debug\Weapon_Store.Purchase.resources
+C:\Users\Ruhma\source\repos\Weapon Store\Weapon Store\obj\Debug\Weapon_Store.Search.resources
+C:\Users\Ruhma\source\repos\Weapon Store\Weapon Store\obj\Debug\Weapon_Store.Invoice.resources
+C:\Users\Ruhma\source\repos\Weapon Store\Weapon Store\obj\Debug\Weapon_Store.About.resources
+C:\Users\Ruhma\source\repos\Weapon Store\Weapon Store\obj\Debug\Weapon_Store.Login.resources
+C:\Users\Ruhma\source\repos\Weapon Store\Weapon Store\obj\Debug\Weapon_Store.Customer.resources
+C:\Users\Ruhma\source\repos\Weapon Store\Weapon Store\obj\Debug\Weapon_Store.invoice_history.resources
+C:\Users\Ruhma\source\repos\Weapon Store\Weapon Store\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Ruhma\source\repos\Weapon Store\Weapon Store\obj\Debug\Weapon S.1D5045BE.Up2Date
+C:\Users\Ruhma\source\repos\Weapon Store\Weapon Store\obj\Debug\Weapon_Store.Customers.resources
+C:\Users\Ruhma\source\repos\Weapon Store\Weapon Store\obj\Debug\Weapon_Store.Sign_up.resources
